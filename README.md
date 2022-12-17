@@ -2,7 +2,6 @@
 - Olá, eu sou o Tieppo!
 - Sou estudante de medicina e apaixonado por programação.
 - No momento estou desenvolvendo softwares em python e c#.
--->
 ##
 </div>
 <div style="display: inline_block"><br>
