@@ -26,7 +26,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/e.tieppo" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" target="_blank"></a>
+  <a href="https://instagram.com/e.tieppo" height="35" width="35" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" target="_blank"></a>
  	 
  
   ![Snake animation](https://github.com/JTieppo/JTieppo/blob/output/github-contribution-grid-snake.svg)
