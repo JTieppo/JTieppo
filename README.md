@@ -1,8 +1,3 @@
-
-- Olá, eu sou o Tieppo!
-- Sou estudante de medicina e apaixonado por programação.
-- No momento estou desenvolvendo softwares em python e c#.
-##
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JTieppo-Python" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
