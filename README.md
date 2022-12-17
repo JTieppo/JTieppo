@@ -28,7 +28,7 @@
 <div> 
   <a href="https://instagram.com/e.tieppo" target="_blank"><img align="center" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emerson-tieppo-jr-13808725b/" target="_blank"><img align="center" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank"></a>
- 	 
+ 	 <a href="https://www.freelancer.com/u/ETieppo" target="_blank"><img align="center" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/3294/3294838.png" target="_blank"></a>
  
   ![Snake animation](https://github.com/JTieppo/JTieppo/blob/output/github-contribution-grid-snake.svg)
  
