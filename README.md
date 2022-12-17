@@ -13,7 +13,7 @@
    
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="JTieppo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JTieppo-Python" height="30" width="40" src="https://www.flaticon.com/free-icon/python_5968350?term=python&page=1&position=6&page=1&position=6&related_id=5968350&origin=search">
   <img align="center" alt="JTieppo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JTieppo-Cs" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
  
