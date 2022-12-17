@@ -14,8 +14,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JTieppo-Python" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
-  <img align="center" alt="JTieppo-bioinformatics" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/1753/1753343.png">
   <img align="center" alt="JTieppo-Cs" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
+  <img align="center" alt="JTieppo-bioinformatics" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/1753/1753343.png">
  
 </div>
   
