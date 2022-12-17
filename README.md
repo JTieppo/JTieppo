@@ -6,6 +6,12 @@
   <a href="https://github.com/JTieppo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JTieppo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTieppo&layout=compact&langs_count=7&theme=dark"/>
+   
+[![](https://raw.githubusercontent.com/JTieppo/JTieppo/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/JTieppo/JTieppo/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JTieppo/JTieppo/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/JTieppo/JTieppo/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JTieppo/JTieppo/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+   
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JTieppo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
