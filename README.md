@@ -1,7 +1,5 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JTieppo-Python" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/python.png">
-  
-  --
   <img align="center" alt="JTieppo-css" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/css.png">
   <img align="center" alt="JTieppo-html" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/html.png">
   <img align="center" alt="JTieppo-pycharm" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/pycharm.png">
