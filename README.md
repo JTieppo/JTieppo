@@ -8,7 +8,10 @@
   <img align="center" alt="JTieppo-git" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/git.png"> 
   <img align="center" alt="JTieppo-windows" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/windows.png"> 
   <img align="center" alt="JTieppo-apple" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/apple-logo.png"> 
-  
+  <p>
+    olá
+  </p>
+
 
    |------------------------       TIEPPO       ---------------------------|  
 
