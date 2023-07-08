@@ -1,9 +1,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JTieppo-Python" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
-  <img align="center" alt="JTieppo-Cs" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
-  <img align="center" alt="JTieppo-html" height="35" width="35" src="https://cdn-user-icons.flaticon.com/88167/88167992/1671377937225.svg?token=exp=1671378845~hmac=ff9cc0134bd4fd87562dde404b243a6d">
-  <img align="center" alt="JTieppo-Css" height="35" width="35" src="https://cdn-user-icons.flaticon.com/88167/88167992/1671378073369.svg?token=exp=1671378978~hmac=a86dea8d1a3ffd6fc570785623efcd8b">
+  
+  
   <img align="center" alt="JTieppo-vscode" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/906/906324.png">
   <img align="center" alt="JTieppo-git" height="35" width="35" src="https://cdn-user-icons.flaticon.com/88167/88167992/1671314152977.svg?token=exp=1671315096~hmac=f3c1ba297687a15b6e683acbdd80a010">
   <img align="center" alt="JTieppo-windows" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/906/906308.png">
