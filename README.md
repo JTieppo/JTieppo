@@ -5,7 +5,6 @@
   <img align="center" alt="JTieppo-JS" heigth="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/java-script.png">
   <img align="center" alt="JTieppo-css" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/css.png">
   <img align="center" alt="JTieppo-html" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/html.png">
- src="https://github.com/JTieppo/JTieppo/blob/main/imgs/pycharm.png">
   <img align="center" alt="JTieppo-vscode" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/vscode.png">
   <img align="center" alt="JTieppo-github" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/github.png"> 
   <img align="center" alt="JTieppo-git" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/git.png"> 
