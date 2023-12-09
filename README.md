@@ -7,9 +7,9 @@
     <img align="center" alt="JTieppo-html" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/html.png">
     <img align="center" alt="JTieppo-git" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/git.png"> 
     <img align="center" alt="JTieppo-react" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/react.png">
-    <img align="center" alt="JTieppo-nextjs" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/nextjs.png">
-    <img align="center" alt="JTieppo-nodejs" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/nodejs.png">
     <img align="center" alt="JTieppo-typescript" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/typescript.png">
+    <img align="center" alt="JTieppo-nodejs" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/nodejs.png">
+    <img align="center" alt="JTieppo-nextjs" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/nextjs.png">
 </div>
 
 
