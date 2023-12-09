@@ -1,4 +1,4 @@
-<h1>Página em manutenção</h1>
+<h1>Algumas das tecnologias que utilizo</h1>
 <div style="">
     <img align="center" alt="JTieppo-Python" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/python.png">
     <img align="center" alt="JTieppo-Cpp" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/Cpp.png">
@@ -13,9 +13,7 @@
 </div>
 
 
-   |------------------------       TIEPPO       ---------------------------|  
 
-  <a href="https://www.linkedin.com/in/emerson-tieppo-jr-13808725b/" target="_blank"><img align="center" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/linkedin.png" target="_blank"></a>
 
    <!-- <p> Referência icones:
     - Iconduck
