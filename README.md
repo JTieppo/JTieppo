@@ -13,7 +13,6 @@
     <img align="center" alt="JTieppo-tailwind" height="35" whidth="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/tailwind.png">
     <img align="center" alt="JTieppo-react" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/react.png">
     <img align="center" alt="JTieppo-nextjs" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/nextjs.png">
-    <img align="center" alt="JTieppo-vercel" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/vercel.png">
 </div>
 
 
