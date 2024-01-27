@@ -9,9 +9,10 @@
     <img align="center" alt="JTieppo-typescript" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/typescript.png">
     <img align="center" alt="JTieppo-nodejs" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/nodejs.png">
     <img align="center" alt="JTieppo-bootstrap" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/bootstrap.png">
-    <img align="center" alt="JTieppo-nextjs" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/nextjs.png">
     <img align="center" alt="JTieppo-tailwind" height="35" whidth="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/tailwind.png">
     <img align="center" alt="JTieppo-lua" height="35" whidth="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/lua.png">
+    <img align="center" alt="JTieppo-nextjs" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/nextjs.png">
+    <img align="center" alt="JTieppo-vercel" height="35" width="35" src="https://github.com/JTieppo/JTieppo/blob/main/imgs/vercel.png">
 </div>
 
 
